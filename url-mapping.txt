@@ -1,0 +1,89 @@
+=== MAPPING DES IMAGES ===
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240624_140100-705x1024.jpg
+    → /images/amande-1.jpg (122937 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_184808-scaled.jpg
+    → /images/amande-2.jpg (352397 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_184820-scaled.jpg
+    → /images/amande-3.jpg (552955 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_190454-scaled.jpg
+    → /images/amande-4.jpg (522919 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_184715-scaled.jpg
+    → /images/amande-5.jpg (738873 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_190111-scaled.jpg
+    → /images/amande-6.jpg (362286 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_190033-scaled.jpg
+    → /images/amande-7.jpg (290511 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_185131-scaled.jpg
+    → /images/amande-8.jpg (569700 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240624_134850-748x1024.jpg
+    → /images/etoile-1.jpg (105417 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191546-scaled.jpg
+    → /images/etoile-2.jpg (889523 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191541.jpg
+    → /images/etoile-3.jpg (1627630 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191738-scaled.jpg
+    → /images/etoile-4.jpg (828722 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191655-scaled.jpg
+    → /images/etoile-5.jpg (811163 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191617-scaled.jpg
+    → /images/etoile-6.jpg (541228 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191639-scaled.jpg
+    → /images/etoile-7.jpg (757637 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_185653-1024x922.jpg
+    → /images/rose-1.jpg (112166 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191031-scaled.jpg
+    → /images/rose-2.jpg (635419 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_185700-scaled.jpg
+    → /images/rose-3.jpg (526747 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_185721-scaled.jpg
+    → /images/rose-4.jpg (384373 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_190941-scaled.jpg
+    → /images/rose-5.jpg (586732 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191003-scaled.jpg
+    → /images/rose-6.jpg (585488 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_185619-scaled.jpg
+    → /images/rose-7.jpg (453735 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191144-1024x663.jpg
+    → /images/coeur-1.jpg (157235 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191236-scaled.jpg
+    → /images/coeur-2.jpg (681084 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191359-scaled.jpg
+    → /images/coeur-3.jpg (829286 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191411-scaled.jpg
+    → /images/coeur-4.jpg (766428 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191144-scaled.jpg
+    → /images/coeur-5.jpg (714768 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191151-scaled.jpg
+    → /images/coeur-6.jpg (784254 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_192126-1024x840.jpg
+    → /images/bouche-1.jpg (148119 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191848-scaled.jpg
+    → /images/bouche-2.jpg (840452 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_192038-scaled.jpg
+    → /images/bouche-3.jpg (728522 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191948-scaled.jpg
+    → /images/bouche-4.jpg (656392 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_191919-scaled.jpg
+    → /images/bouche-5.jpg (706758 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_192152-scaled.jpg
+    → /images/bouche-6.jpg (958260 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240624_135851-scaled.jpg
+    → /images/bouche-7.jpg (596985 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/01/A-O-S-face3-copie-300x222.jpg
+    → /images/commande-1.jpg (17642 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/07/20250731_101153-225x300.jpg
+    → /images/commande-2.jpg (81668 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/01/A-O-S-contre-plonge-copie-200x300.jpg
+    → /images/commande-3.jpg (14233 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/07/20250731_101220-225x300.jpg
+    → /images/commande-4.jpg (78098 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/01/A-O-S-cosmique-Detail-serpent-copie-300x200.jpg
+    → /images/commande-5.jpg (13000 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2025/07/20250731_101536-225x300.jpg
+    → /images/commande-6.jpg (76007 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/AtelierLM-682x1024.jpg
+    → /images/artiste-1.jpg (152101 bytes)
+✅ https://tamboursdelaterre.com/wp-content/uploads/2024/06/20240518_193236-1024x577.jpg
+    → /images/artiste-2.jpg (256264 bytes)
+
+=== ERREURS ===
